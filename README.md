@@ -1,0 +1,2 @@
+# freedomoss
+Hugo project
